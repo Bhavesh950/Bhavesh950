@@ -1,5 +1,5 @@
 ## 💫 About Me  
-**💫Hi,👋 I'm Bhavesh Mulchandani**  
+**Hi,👋 I'm Bhavesh Mulchandani**  
 A passionate **Data Scientist | ML Engineer | Aspiring Data Analyst** from India 🇮🇳
 
 ---
