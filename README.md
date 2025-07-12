@@ -1,5 +1,5 @@
 ## 💫 About Me  
-**Hi, I'm Bhavesh Mulchandani**  
+**💫Hi,👋 I'm Bhavesh Mulchandani**  
 A passionate **Data Scientist | ML Engineer | Aspiring Data Analyst** from India 🇮🇳
 
 ---
@@ -8,8 +8,7 @@ A passionate **Data Scientist | ML Engineer | Aspiring Data Analyst** from India
 I believe data is not just numbers — it's a **story waiting to be told** 📊📚
 
 📬 **Reach Out:**  
-- 📧 bhaveshmulchandani@gmail.com  
-- 📧 bhaveshmulchandani651@gmail.com  
+- 📧 Email me:👉📩bhaveshmulchandani651@gmail.com for collaboration, projects, or just a chat on tech!
 - Or drop a message on GitHub – always open to collaborations and tech talks!
 
 ---
@@ -39,8 +38,10 @@ I believe data is not just numbers — it's a **story waiting to be told** 📊�
 
 ---
 
-💖 **Fun Fact:**  
-I call my best friend “Pandey” ❤️ – she’s my biggest supporter and one of the reasons I began exploring tech with so much heart and passion 💫
+💡 **Fun Fact:**  
+I wasn’t always into data science — but once I discovered the power of Python and real-world projects, it sparked something in me.  
+Today, I explore tech not just with logic, but with a lot of heart 💙 — and I truly enjoy **learning, building, and helping others grow too**!
+
 
 ---
 
