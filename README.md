@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Bhavesh950/Bhavesh950/blob/main/A_digital_graphic_banner_features_Bhavesh_Mulchand.png" alt="Bhavesh Portfolio Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Bhavesh950/Bhavesh950/main/banner.png" alt="Bhavesh Portfolio Banner" width="100%">
 </p>
+
 
 ## 💫 About Me  
 **Hi,👋 I'm Bhavesh Mulchandani**  
