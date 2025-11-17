@@ -19,8 +19,8 @@ I believe data is not just numbers — it's a **story waiting to be told** 📊�
 ---
 
 ### 🛠️ Currently Working On:
-- An **Image Classifier Web App** using **Streamlit & Python**
-- Exploring **Flask**, **Web Scraping**, and **ML Deployment**
+- An **Smart Travel Assistant (All-in-One Trip Planner)** using **Python , Flask , API , databases(SQL)**
+- Exploring **Flask**, **REGEX Library**, and **ML Deployment**
 
 ### 🌱 Currently Learning:
 - **Python (Advanced), Pandas, NumPy**  
@@ -28,7 +28,7 @@ I believe data is not just numbers — it's a **story waiting to be told** 📊�
 - **Flask, Streamlit, ML Algorithms**
 
 ### 🤝 Open to Collaborate On:
-- **Data Analysis**, **ML Apps**, **AI Projects**, or any tech that creates impact 🌍
+- **python Flask**, **ML Apps**, **AI Projects**, or any tech that creates impact 🌍
 
 ### 🤗 Looking for Help With:
 - Improving **model performance**
