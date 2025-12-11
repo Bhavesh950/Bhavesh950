@@ -2,15 +2,21 @@
   <img src="https://raw.githubusercontent.com/Bhavesh950/Bhavesh950/main/banner.png" alt="Bhavesh Portfolio Banner" width="100%">
 </p>
 
+<h1 align="center">Hi, I'm Bhavesh Mulchandani 👋</h1>
+<h3 align="center">Data Scientist Intern | Python & Flask Developer | ML Enthusiast</h3>
 
 ## 💫 About Me  
-**Hi,👋 I'm Bhavesh Mulchandani**  
-A passionate **Data Scientist | ML Engineer | Aspiring Data Analyst** from India 🇮🇳
+I’m a **Data Scientist Intern at Grass Solutions**, passionate about turning data into insights, building intelligent applications, and solving real-world problems using **Python, Machine Learning, and SQL**.
+
+Over the past year, I’ve:  
+✅ Mastered **Python, SQL, Flask, APIs, Databases**  
+✅ Built multiple real-world **AI, ML & Web App projects**  
+✅ Strengthened core **Data Science fundamentals** like Statistics, ML, DL, & EDA  
+✅ Explored advanced tools like **Streamlit, REGEX, Data Visualization, Web Scraping**  
+
+I believe technology creates impact — and I’m learning & building every day to grow as a **Data Scientist & ML Engineer**.
 
 ---
-
-🔍 **I love turning raw data into meaningful insights**, building intelligent ML models, and solving real-world problems using Python, statistics, and machine learning.  
-I believe data is not just numbers — it's a **story waiting to be told** 📊📚
 
 📬 **Reach Out:**  
 - 📧 Email me:👉📩bhaveshmulchandani651@gmail.com for collaboration, projects, or just a chat on tech!
@@ -19,27 +25,51 @@ I believe data is not just numbers — it's a **story waiting to be told** 📊�
 ---
 
 ### 🛠️ Currently Working On:
+- 🌍 **Wanderlust AI – Smart Travel Assistant**  
 - An **Smart Travel Assistant (All-in-One Trip Planner)** using **Python , Flask , API , databases(SQL)**
-- Exploring **Flask**, **REGEX Library**, and **ML Deployment**
+- Exploring **Flask**, **REGEX Library**
 
 ### 🌱 Currently Learning:
-- **Python (Advanced), Pandas, NumPy**  
-- **SQL, Power BI, Matplotlib, Seaborn**  
-- **Flask, Streamlit, ML Algorithms**
+- 📘 **Data Science Core:** Statistics, Probability, EDA  
+- 🤖 **Machine Learning & Deep Learning**  
+- 🐍 **Advanced Python**, Pandas, NumPy  
+- 🗄️ **SQL & Database Design**  
+- 🧪 Model deployment (Flask, Streamlit, Cloud)
+
+---
+
+## 🧪 My Recent Projects  
+### 🌍 Wanderlust AI  
+AI-powered travel assistant with flights, hotels, weather, chat, and trip planner  
+**Tech:** Flask, Python, SQL, APIs, AI Integration  
+
+### 🧠 Image Classifier Web App  
+Built with **CNN + Streamlit**  
+Upload image → Predicts label  
+🔗 Demo: https://imageclassifier-urwoc6evrx6wqpmzrz5tej.streamlit.app/
+
+### 🎬 Movie Explorer – Flask Web Scraper  
+Scrapes & displays trending movies using Python + Flask  
+
+### 🗂 SQL + Python (Pandas) IMDB Case Study  
+Analyzing movies, actors, revenues, trends, and patterns  
+
+---
 
 ### 🤝 Open to Collaborate On:
-- **python Flask**, **ML Apps**, **AI Projects**, or any tech that creates impact 🌍
+- Python & Flask Projects  
+- ML & Data Science  
+- AI/Automation ideas  
+- Any impactful tech project  
 
-### 🤗 Looking for Help With:
-- Improving **model performance**
-- Understanding advanced **ML/AI concepts**
-- Deploying apps on **Heroku**, **Render**, or **AWS**
+---
 
 ### 💬 Ask Me About:
-- Python tips & tricks 🐍  
-- Starting your ML journey  
-- Web scraping techniques  
-- Resume or GitHub profile building for tech roles
+## 💬 Ask Me About  
+- Python tips & tricks  
+- Starting your Data Science journey  
+- Web scraping & automation  
+- GitHub, Resume, LinkedIn optimization  
 
 ---
 
@@ -47,25 +77,12 @@ I believe data is not just numbers — it's a **story waiting to be told** 📊�
 I wasn’t always into data science — but once I discovered the power of Python and real-world projects, it sparked something in me.  
 Today, I explore tech not just with logic, but with a lot of heart 💙 — and I truly enjoy **learning, building, and helping others grow too**!
 
-
 ---
 
 🚀 **Mission:**  
-To become a skilled **Data Scientist & ML Engineer** – learning, building, and sharing along the way!
+Become a skilled **Data Scientist & ML Engineer**, build impactful AI projects, and continuously learn.
 
 ---
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bhavesh950&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh-mulchandani-085759277) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhaveshmulchandani651@gmail.com)
-
-<!-- 🐍 Snake Contribution Graph Animation -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
@@ -82,10 +99,29 @@ To become a skilled **Data Scientist & ML Engineer** – learning, building, and
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
+# 🏆 GitHub Trophies  
+![](https://github-profile-trophy.vercel.app/?username=Bhavesh950&theme=neon&no-frame=false&no-bg=false&margin-w=4)  
+
+---
+
+<!-- 🐍 Snake Contribution Graph Animation -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bhavesh950&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Bhavesh950&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh950&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+# 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh-mulchandani-085759277)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhaveshmulchandani651@gmail.com)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bhavesh950&limit=5&theme=neon&combine_all_yearly_contributions=true)
