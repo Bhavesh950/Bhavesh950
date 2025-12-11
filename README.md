@@ -99,8 +99,9 @@ Become a skilled **Data Scientist & ML Engineer**, build impactful AI projects, 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
-# 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=Bhavesh950&theme=neon&no-frame=false&no-bg=false&margin-w=4)  
+## 🏆 GitHub Trophies
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Bhavesh950&theme=tokyonight&no-frame=true&margin-w=10" /></p>
+
 
 ---
 
