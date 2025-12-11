@@ -99,9 +99,11 @@ Become a skilled **Data Scientist & ML Engineer**, build impactful AI projects, 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
-## 🏆 GitHub Trophies
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Bhavesh950&theme=tokyonight&no-frame=true&margin-w=10" /></p>
+---
 
+# 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh-mulchandani-085759277)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhaveshmulchandani651@gmail.com)
 
 ---
 
@@ -112,17 +114,19 @@ Become a skilled **Data Scientist & ML Engineer**, build impactful AI projects, 
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-readme-trophy.vercel.app/?username=Bhavesh950&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bhavesh950&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Bhavesh950&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh950&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-
-# 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh-mulchandani-085759277)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhaveshmulchandani651@gmail.com)
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bhavesh950&limit=5&theme=neon&combine_all_yearly_contributions=true)
