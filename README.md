@@ -48,9 +48,6 @@ Built with **CNN + Streamlit**
 Upload image → Predicts label  
 🔗 Demo: https://imageclassifier-urwoc6evrx6wqpmzrz5tej.streamlit.app/
 
-### 🎬 Movie Explorer – Flask Web Scraper  
-Scrapes & displays trending movies using Python + Flask  
-
 ### 🗂 SQL + Python (Pandas) IMDB Case Study  
 Analyzing movies, actors, revenues, trends, and patterns  
 
@@ -122,9 +119,11 @@ Become a skilled **Data Scientist & ML Engineer**, build impactful AI projects, 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bhavesh950&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bhavesh950&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh950&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Bhavesh950&theme=neon&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=Bhavesh950&theme=neon&hide_border=false&count_private=true&cache_seconds=1)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh950&theme=neon&hide_border=false&layout=compact&count_private=true&cache_seconds=1)
 
 ---
 
