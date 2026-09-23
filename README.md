@@ -1,139 +1,338 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bhavesh950/Bhavesh950/main/banner.png" alt="Bhavesh Portfolio Banner" width="100%">
+<div align="center">
+
+# 👋 Hi, I'm Bhavesh Mulchandani
+
+### 🤖 AI Generalist | Python Developer | Data Science & Machine Learning
+
+<p>
+  <a href="https://linkedin.com/in/bhavesh-mulchandani-085759277">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bhaveshmulchandani651@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Bhavesh950">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<h1 align="center">Hi, I'm Bhavesh Mulchandani 👋</h1>
-<h3 align="center">Data Scientist Intern | Python & Flask Developer | ML Enthusiast</h3>
-
-## 💫 About Me  
-I’m a **Data Scientist Intern at Grass Solutions**, passionate about turning data into insights, building intelligent applications, and solving real-world problems using **Python, Machine Learning, and SQL**.
-
-Over the past year, I’ve:  
-✅ Mastered **Python, SQL, Flask, APIs, Databases**  
-✅ Built multiple real-world **AI, ML & Web App projects**  
-✅ Strengthened core **Data Science fundamentals** like Statistics, ML, DL, & EDA  
-✅ Explored advanced tools like **Streamlit, REGEX, Data Visualization, Web Scraping**  
-
-I believe technology creates impact — and I’m learning & building every day to grow as a **Data Scientist & ML Engineer**.
-
----
-
-📬 **Reach Out:**  
-- 📧 Email me:👉📩bhaveshmulchandani651@gmail.com for collaboration, projects, or just a chat on tech!
-- Or drop a message on GitHub – always open to collaborations and tech talks!
-
----
-
-### 🛠️ Currently Working On:
-- 🌍 **Wanderlust AI – Smart Travel Assistant**  
-- An **Smart Travel Assistant (All-in-One Trip Planner)** using **Python , Flask , API , databases(SQL)**
-- Exploring **Flask**, **REGEX Library**
-
-### 🌱 Currently Learning:
-- 📘 **Data Science Core:** Statistics, Probability, EDA  
-- 🤖 **Machine Learning & Deep Learning**  
-- 🐍 **Advanced Python**, Pandas, NumPy  
-- 🗄️ **SQL & Database Design**  
-- 🧪 Model deployment (Flask, Streamlit, Cloud)
-
----
-
-## 🧪 My Recent Projects  
-### 🌍 Wanderlust AI  
-AI-powered travel assistant with flights, hotels, weather, chat, and trip planner  
-**Tech:** Flask, Python, SQL, APIs, AI Integration  
-
-### 🧠 Image Classifier Web App  
-Built with **CNN + Streamlit**  
-Upload image → Predicts label  
-🔗 Demo: https://imageclassifier-urwoc6evrx6wqpmzrz5tej.streamlit.app/
-
-### 🗂 SQL + Python (Pandas) IMDB Case Study  
-Analyzing movies, actors, revenues, trends, and patterns  
-
----
-
-### 🤝 Open to Collaborate On:
-- Python & Flask Projects  
-- ML & Data Science  
-- AI/Automation ideas  
-- Any impactful tech project  
-
----
-
-### 💬 Ask Me About:
-## 💬 Ask Me About  
-- Python tips & tricks  
-- Starting your Data Science journey  
-- Web scraping & automation  
-- GitHub, Resume, LinkedIn optimization  
-
----
-
-💡 **Fun Fact:**  
-I wasn’t always into data science — but once I discovered the power of Python and real-world projects, it sparked something in me.  
-Today, I explore tech not just with logic, but with a lot of heart 💙 — and I truly enjoy **learning, building, and helping others grow too**!
-
----
-
-🚀 **Mission:**  
-Become a skilled **Data Scientist & ML Engineer**, build impactful AI projects, and continuously learn.
-
----
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-
----
-
-# 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh-mulchandani-085759277)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhaveshmulchandani651@gmail.com)
-
----
-
-<!-- 🐍 Snake Contribution Graph Animation -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-readme-trophy.vercel.app/?username=Bhavesh950&theme=tokyonight&no-frame=true&margin-w=10" />
+## 👨‍💻 About Me
+
+I'm a **Data Scientist Intern at Grass Solutions** with a strong interest in **Artificial Intelligence, Generative AI, Machine Learning, and Python development**.
+
+I enjoy building practical AI-powered applications that connect **data, models, APIs, and user-facing applications**.
+
+My current focus is on becoming a strong **AI Generalist** by working across different parts of the AI development lifecycle — from data processing and machine learning to APIs, backend development, AI integrations, and deployment.
+
+### What I work with
+
+* 🐍 **Python** for AI, automation, backend development and data processing
+* 🤖 **Machine Learning & Deep Learning**
+* 🧠 **Generative AI & AI Integrations**
+* 📊 **Data Analysis, EDA & Visualization**
+* 🌐 **Flask, APIs & Web Applications**
+* 🗄️ **SQL & Database Integration**
+* 🚀 **Streamlit & Model Deployment**
+
+---
+
+## 💼 Current Role
+
+### Data Scientist Intern — Grass Solutions
+
+Currently working on **Data Science, AI and Python-based development**, while expanding my practical knowledge across machine learning, AI applications, APIs and data-driven solutions.
+
+I'm also exploring **AI Generalist workflows**, including working with AI models, prompt-based applications, API integrations and automated content generation.
+
+---
+
+## 🤖 AI & Machine Learning
+
+My current learning and development areas include:
+
+```text
+Artificial Intelligence
+        ↓
+Generative AI
+        ↓
+LLMs & AI APIs
+        ↓
+Prompt Engineering
+        ↓
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+Data Processing & EDA
+        ↓
+Python Applications
+        ↓
+APIs & Deployment
+```
+
+### Areas I'm Exploring
+
+* Generative AI
+* LLM Applications
+* Prompt Engineering
+* AI APIs
+* RAG & Vector Databases
+* Transformers
+* Machine Learning
+* Deep Learning
+* NLP
+* Model Deployment
+* AI Automation
+
+---
+
+# 🚀 Featured Projects
+
+## 🌍 Wanderlust AI — Smart Travel Assistant
+
+An AI-powered travel assistant designed to help users plan trips using multiple services and APIs.
+
+**Built with:**
+
+`Python` `Flask` `SQL` `APIs` `AI Integration`
+
+**Key areas:**
+
+* ✈️ Travel planning
+* 🏨 Hotel-related information
+* 🌦️ Weather integration
+* 🤖 AI-powered assistance
+* 🗄️ Database integration
+* 🌐 Flask backend
+
+---
+
+## 🛡️ IEEE-CIS Fraud Detection — Machine Learning
+
+A machine learning project focused on detecting fraudulent transactions using the **IEEE-CIS Fraud Detection dataset**.
+
+**Built with:**
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `TensorFlow`
+
+**Key areas:**
+
+* Data preprocessing
+* Exploratory Data Analysis
+* Missing-value handling
+* Class imbalance
+* Feature engineering
+* SMOTE
+* PCA
+* ANN / Deep Learning
+* Model evaluation
+
+---
+
+## 🖼️ Image Classifier Web App
+
+A web-based image classification application using a deep learning model.
+
+**Built with:**
+
+`Python` `CNN` `Streamlit` `Deep Learning`
+
+**Features:**
+
+* Image upload
+* Image preprocessing
+* Model prediction
+* User-friendly web interface
+
+🔗 **Live Demo:**
+https://imageclassifier-urwoc6evrx6wqpmzrz5tej.streamlit.app/
+
+---
+
+## 📊 IMDb SQL + Python Case Study
+
+A data analysis project focused on extracting insights from movie-related data.
+
+**Built with:**
+
+`Python` `Pandas` `SQL` `Data Analysis`
+
+**Covered:**
+
+* Movie analysis
+* Revenue analysis
+* Actor insights
+* Ratings
+* Trends and patterns
+* SQL-based data exploration
+
+---
+
+# 🧰 Tech Stack
+
+### 🐍 Programming
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+### 🤖 AI / ML / Data Science
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+### 🧠 Generative AI
+
+<p>
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_APIs-00897B?style=for-the-badge"/>
+</p>
+
+### 🌐 Backend & APIs
+
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### 🗄️ Database & Tools
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bhavesh950&theme=neon&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1)<br/>
+# 📚 Currently Learning
 
-![](https://nirzak-streak-stats.vercel.app/?user=Bhavesh950&theme=neon&hide_border=false&count_private=true&cache_seconds=1)<br/>
+```text
+GenAI & LLM Applications
+        │
+        ├── Prompt Engineering
+        ├── RAG
+        ├── Vector Databases
+        ├── Transformers
+        └── AI APIs
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh950&theme=neon&hide_border=false&layout=compact&count_private=true&cache_seconds=1)
+Machine Learning
+        │
+        ├── Model Optimization
+        ├── Feature Engineering
+        ├── Model Evaluation
+        └── Deep Learning
+
+Python Development
+        │
+        ├── Flask
+        ├── FastAPI
+        ├── APIs
+        └── Deployment
+```
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bhavesh950&limit=5&theme=neon&combine_all_yearly_contributions=true)
+# 🧩 AI Generalist Journey
+
+I'm building my skills across multiple areas rather than focusing on a single technology.
+
+**Data → ML → AI → GenAI → APIs → Applications → Deployment**
+
+My goal is to understand how these components work together to create **practical AI-powered products**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bhavesh950&icon=7&color=0)](https://visitcount.itsvg.in)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 🤝 Open to Collaboration
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm interested in collaborating on:
+
+* 🤖 AI / GenAI projects
+* 🧠 Machine Learning projects
+* 🐍 Python applications
+* 🌐 Flask / API projects
+* 📊 Data Science projects
+* ⚙️ AI automation
+* 💡 Practical AI product ideas
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bhavesh950&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh950&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Bhavesh950&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📌 Featured GitHub Repositories
+
+### 🛡️ Spam Ham Classifier
+
+NLP-based spam detection project using machine learning.
+
+🔗 https://github.com/Bhavesh950/Spam_Ham_Classifier_NLP_Project
+
+### 📊 AmbitionBox Job Analysis
+
+Data analysis project focused on extracting insights from job-market data.
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="mailto:bhaveshmulchandani651@gmail.com">
+<img src="https://img.shields.io/badge/Email-bhaveshmulchandani651%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/bhavesh-mulchandani-085759277">
+<img src="https://img.shields.io/badge/LinkedIn-Bhavesh%20Mulchandani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Bhavesh950">
+<img src="https://img.shields.io/badge/GitHub-Bhavesh950-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building. Learning. Experimenting with AI.
+
+**Turning ideas into practical AI-powered applications.**
+
+</div>
