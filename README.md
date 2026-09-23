@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Bhavesh Mulchandani
 
-### 🤖 AI Generalist | Python Developer | Data Science & Machine Learning
+### 🤖 GEN AI | Python Developer | Data Science & Machine Learning
 
 <p>
   <a href="https://linkedin.com/in/bhavesh-mulchandani-085759277">
