@@ -90,85 +90,42 @@ APIs & Deployment
 
 ---
 
-# 🚀 Featured Projects
+### 🛠️ Currently Working On:
 
-## 🌍 Wanderlust AI — Smart Travel Assistant
+* 🤖 **AI & Machine Learning Projects**
+* 🧠 Exploring **Generative AI, LLMs, Prompt Engineering & AI APIs**
+* 🐍 Building applications using **Python, Flask & APIs**
+* 📊 Working with **Data Science, Machine Learning & Data Analysis**
 
-An AI-powered travel assistant designed to help users plan trips using multiple services and APIs.
+### 🌱 Currently Learning:
 
-**Built with:**
-
-`Python` `Flask` `SQL` `APIs` `AI Integration`
-
-**Key areas:**
-
-* ✈️ Travel planning
-* 🏨 Hotel-related information
-* 🌦️ Weather integration
-* 🤖 AI-powered assistance
-* 🗄️ Database integration
-* 🌐 Flask backend
+* 🤖 **Generative AI & LLM Applications**
+* 🧠 **Prompt Engineering & AI APIs**
+* 📊 **Machine Learning & Deep Learning**
+* 🐍 **Advanced Python & Flask**
+* 🗄️ **SQL & Database Design**
+* 🚀 **AI Application Development & Deployment**
 
 ---
 
-## 🛡️ IEEE-CIS Fraud Detection — Machine Learning
+## 🧪 My Recent Projects
 
-A machine learning project focused on detecting fraudulent transactions using the **IEEE-CIS Fraud Detection dataset**.
+### 🧠 Spam Ham Classifier
 
-**Built with:**
+Machine Learning + NLP based application for classifying messages as **Spam or Ham**.
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `TensorFlow`
+**Tech:** Python, NLP, Machine Learning, Pandas, Scikit-learn
 
-**Key areas:**
+🔗 **GitHub:** https://github.com/Bhavesh950/Spam_Ham_Classifier_NLP_Project
 
-* Data preprocessing
-* Exploratory Data Analysis
-* Missing-value handling
-* Class imbalance
-* Feature engineering
-* SMOTE
-* PCA
-* ANN / Deep Learning
-* Model evaluation
+### 📊 AmbitionBox Job Analysis
 
----
+Data analysis project focused on analyzing **job listings, salaries, skills, experience requirements, and job-market trends**.
 
-## 🖼️ Image Classifier Web App
+**Tech:** Python, Pandas, NumPy, Data Analysis, Data Visualization
 
-A web-based image classification application using a deep learning model.
+🔗 **GitHub:** https://github.com/Bhavesh950/AmbitionBox-Job-Analysis
 
-**Built with:**
-
-`Python` `CNN` `Streamlit` `Deep Learning`
-
-**Features:**
-
-* Image upload
-* Image preprocessing
-* Model prediction
-* User-friendly web interface
-
-🔗 **Live Demo:**
-https://imageclassifier-urwoc6evrx6wqpmzrz5tej.streamlit.app/
-
----
-
-## 📊 IMDb SQL + Python Case Study
-
-A data analysis project focused on extracting insights from movie-related data.
-
-**Built with:**
-
-`Python` `Pandas` `SQL` `Data Analysis`
-
-**Covered:**
-
-* Movie analysis
-* Revenue analysis
-* Actor insights
-* Ratings
-* Trends and patterns
-* SQL-based data exploration
 
 ---
 
