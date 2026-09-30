@@ -1,293 +1,271 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:172554,100:0F172A&height=230&section=header&text=BHAVESH%20MULCHANDANI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENTIST%20%7C%20AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
+
 # 👋 Hi, I'm Bhavesh Mulchandani
 
-### 🤖 GEN AI | Python Developer | Data Science & Machine Learning
+### 🤖 Data Scientist • AI/ML Engineer • Generative AI Developer
 
 <p>
-  <a href="https://linkedin.com/in/bhavesh-mulchandani-085759277">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/bhavesh-mulchandani-085759277/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:bhaveshmulchandani651@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Bhavesh950">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Bhavesh950&label=Profile%20Views&color=0F172A&style=flat-square"/>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I'm a **Data Scientist Intern at Grass Solutions** with a strong interest in **Artificial Intelligence, Generative AI, Machine Learning, and Python development**.
+I build **AI-powered applications** by combining Machine Learning, Deep Learning, NLP and Generative AI with practical software development.
 
-I enjoy building practical AI-powered applications that connect **data, models, APIs, and user-facing applications**.
-
-My current focus is on becoming a strong **AI Generalist** by working across different parts of the AI development lifecycle — from data processing and machine learning to APIs, backend development, AI integrations, and deployment.
-
-### What I work with
-
-* 🐍 **Python** for AI, automation, backend development and data processing
-* 🤖 **Machine Learning & Deep Learning**
-* 🧠 **Generative AI & AI Integrations**
-* 📊 **Data Analysis, EDA & Visualization**
-* 🌐 **Flask, APIs & Web Applications**
-* 🗄️ **SQL & Database Integration**
-* 🚀 **Streamlit & Model Deployment**
-
----
-
-## 💼 Current Role
-
-### Data Scientist Intern — Grass Solutions
-
-Currently working on **Data Science, AI and Python-based development**, while expanding my practical knowledge across machine learning, AI applications, APIs and data-driven solutions.
-
-I'm also exploring **AI Generalist workflows**, including working with AI models, prompt-based applications, API integrations and automated content generation.
-
----
-
-## 🤖 AI & Machine Learning
-
-My current learning and development areas include:
+My focus is on turning ideas into working solutions — from **data processing and model development** to **LLM applications, RAG pipelines, APIs and interactive AI systems**.
 
 ```text
-Artificial Intelligence
-        ↓
-Generative AI
-        ↓
-LLMs & AI APIs
-        ↓
-Prompt Engineering
-        ↓
+Data
+  ↓
 Machine Learning
-        ↓
+  ↓
 Deep Learning
-        ↓
-Data Processing & EDA
-        ↓
-Python Applications
-        ↓
-APIs & Deployment
+  ↓
+NLP
+  ↓
+Generative AI
+  ↓
+LLMs + RAG
+  ↓
+AI Applications
+  ↓
+Deployment
 ```
+I enjoy working at the intersection of AI, software engineering and real-world problem solving.
 
-### Areas I'm Exploring
-
-* Generative AI
-* LLM Applications
-* Prompt Engineering
-* AI APIs
-* RAG & Vector Databases
-* Transformers
-* Machine Learning
-* Deep Learning
-* NLP
-* Model Deployment
-* AI Automation
-
----
-
-### 🛠️ Currently Working On:
-
-* 🤖 **AI & Machine Learning Projects**
-* 🧠 Exploring **Generative AI, LLMs, Prompt Engineering & AI APIs**
-* 🐍 Building applications using **Python, Flask & APIs**
-* 📊 Working with **Data Science, Machine Learning & Data Analysis**
-
-### 🌱 Currently Learning:
-
-* 🤖 **Generative AI & LLM Applications**
-* 🧠 **Prompt Engineering & AI APIs**
-* 📊 **Machine Learning & Deep Learning**
-* 🐍 **Advanced Python & Flask**
-* 🗄️ **SQL & Database Design**
-* 🚀 **AI Application Development & Deployment**
-
----
-
-## 🧪 My Recent Projects
-
-### 🧠 Spam Ham Classifier
-
-Machine Learning + NLP based application for classifying messages as **Spam or Ham**.
-
-**Tech:** Python, NLP, Machine Learning, Pandas, Scikit-learn
-
-🔗 **GitHub:** https://github.com/Bhavesh950/Spam_Ham_Classifier_NLP_Project
-
-### 📊 AmbitionBox Job Analysis
-
-Data analysis project focused on analyzing **job listings, salaries, skills, experience requirements, and job-market trends**.
-
-**Tech:** Python, Pandas, NumPy, Data Analysis, Data Visualization
-
-🔗 **GitHub:** https://github.com/Bhavesh950/AmbitionBox-Job-Analysis
-
-
----
-
-# 🧰 Tech Stack
-
-### 🐍 Programming
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### 🤖 AI / ML / Data Science
-
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
-
-### 🧠 Generative AI
-
-<p>
-<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_APIs-00897B?style=for-the-badge"/>
-</p>
-
-### 🌐 Backend & APIs
-
-<p>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-### 🗄️ Database & Tools
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
-
----
-
-# 📚 Currently Learning
-
-```text
-GenAI & LLM Applications
-        │
-        ├── Prompt Engineering
-        ├── RAG
-        ├── Vector Databases
-        ├── Transformers
-        └── AI APIs
-
+⚡ What I Work With
+<table> <tr> <td width="50%" valign="top">
+🤖 Artificial Intelligence
+Generative AI
+Large Language Models
+Retrieval-Augmented Generation
+LangChain
+Vector Databases
+FAISS
+Prompt Engineering
+NLP
+Deep Learning
+</td> <td width="50%" valign="top">
+🛠️ AI Engineering
+Python
 Machine Learning
-        │
-        ├── Model Optimization
-        ├── Feature Engineering
-        ├── Model Evaluation
-        └── Deep Learning
+Model Development
+Feature Engineering
+Data Analysis
+Flask
+Streamlit
+REST APIs
+MySQL
+MongoDB
+Git & GitHub
+</td> </tr> </table>
+🚀 Featured Projects
+🎨 AI SVG Studio
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:312E81&height=110&text=AI%20SVG%20STUDIO&fontSize=32&fontColor=FFFFFF&animation=fadeIn" width="100%"/> </p>
+Generative AI Powered SVG Design Platform
 
-Python Development
-        │
-        ├── Flask
-        ├── FastAPI
-        ├── APIs
-        └── Deployment
-```
+AI-powered application that converts a user's design prompt into a structured design specification and generates scalable SVG graphics using reusable Python-based templates.
 
----
+✨ Highlights
+🤖 Gemini-powered AI design specification generation
+🎨 Multiple visual styles and design templates
+🧩 Reusable SVG rendering architecture
+📦 Single and batch SVG generation
+👁️ Live SVG preview
+📥 SVG / ZIP / JSON downloads
+💬 Session-based AI design workflow
+⚡ Interactive Streamlit application
 
-# 🧩 AI Generalist Journey
+Tech Stack
 
-I'm building my skills across multiple areas rather than focusing on a single technology.
+Python Gemini Generative AI LangChain SVG Streamlit
 
-**Data → ML → AI → GenAI → APIs → Applications → Deployment**
+<p align="center"> <a href="https://ai-svg-studio-mq2tbhebhug3z7aaqfj5b4.streamlit.app/"> <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> </a> <a href="https://github.com/Bhavesh950/AI-SVG-Studio"> <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+🛡️ SpamShield AI
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:064E3B&height=110&text=SPAMSHIELD%20AI&fontSize=32&fontColor=FFFFFF&animation=fadeIn" width="100%"/> </p>
+NLP-Based Spam / Ham Classification System
 
-My goal is to understand how these components work together to create **practical AI-powered products**.
+Machine Learning application that classifies text messages as Spam or Ham using text preprocessing, TF-IDF feature extraction and Random Forest classification.
 
----
+✨ Highlights
+🧹 Text preprocessing pipeline
+🔤 TF-IDF feature extraction
+🌲 Random Forest classification
+🎯 Custom prediction threshold
+🌐 Flask-based web application
+📊 Probability-based predictions
+📁 Large trained model tracked using Git LFS
 
-# 🤝 Open to Collaboration
+Tech Stack
 
-I'm interested in collaborating on:
+Python NLP TF-IDF Random Forest Flask NLTK
 
-* 🤖 AI / GenAI projects
-* 🧠 Machine Learning projects
-* 🐍 Python applications
-* 🌐 Flask / API projects
-* 📊 Data Science projects
-* ⚙️ AI automation
-* 💡 Practical AI product ideas
+<p align="center"> <a href="https://github.com/Bhavesh950/Spam_Ham_Classifier_NLP_Project"> <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+📊 AmbitionBox Job Analysis
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1E3A8A&height=110&text=JOB%20MARKET%20ANALYTICS&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> </p>
+Data Analysis & Visualization Project
 
----
+A data analytics project focused on exploring job and company information to identify patterns, trends and useful insights.
 
-# 📈 GitHub Stats
+✨ Highlights
+📥 Dataset exploration
+🧹 Data cleaning
+🔎 Exploratory Data Analysis
+📊 Statistical analysis
+📈 Data visualization
+🐼 Pandas-based data processing
 
+Tech Stack
+
+Python Pandas NumPy Matplotlib Data Analysis
+
+<p align="center"> <a href="https://github.com/Bhavesh950/AmbitionBox-Job-Analysis"> <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+💼 Professional Experience
+🤖 Grass Solutions
+AI / ML Training & Internship
+
+Aug 2025 — Jun 2026
+
+Worked on practical Artificial Intelligence and Machine Learning concepts with hands-on exposure to modern AI application development.
+
+Key Areas
+🧠 Machine Learning and Deep Learning workflows
+🤖 Generative AI and LLM-based applications
+🔎 Retrieval-Augmented Generation (RAG)
+🗂️ Vector databases and FAISS
+🔗 LangChain-based AI workflows
+⚙️ AI application development and experimentation
+🧠 Proftcode AI
+Artificial Intelligence Intern
+
+Jun 2026 — Aug 2026
+
+Worked as an Artificial Intelligence Intern with hands-on exposure to practical AI development, data processing and model experimentation.
+
+Key Areas
+🐍 Python-based AI development
+🤖 Artificial Intelligence and Machine Learning workflows
+🧠 Model development and experimentation
+🔎 Data processing and analysis
+⚙️ AI application development
+🚀 Practical implementation of AI concepts
+🧰 Technical Arsenal
+👨‍💻 Programming
+<p> <img src="https://skillicons.dev/icons?i=python,c,java&theme=dark"/> </p>
+🤖 AI / Machine Learning
+<p> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/> </p>
+
+Machine Learning • Deep Learning • NLP • Generative AI • LLMs • RAG • Feature Engineering • Model Evaluation
+
+🧠 Generative AI
+
+LLMs RAG LangChain FAISS Vector Databases Prompt Engineering Gemini AI Applications
+
+📊 Data & Analytics
+<p> <img src="https://skillicons.dev/icons?i=pandas,numpy,mysql,mongodb&theme=dark"/> </p>
+
+Pandas • NumPy • Matplotlib • Seaborn • Power BI • SQL
+
+🌐 Development & Tools
+<p> <img src="https://skillicons.dev/icons?i=flask,streamlit,git,github,postman&theme=dark"/> </p>
+
+REST APIs • Flask • Streamlit • Git • GitHub • Postman
+
+🧭 My AI Journey
+<p align="center">
+                    🐍 PYTHON
+                       │
+                       ▼
+                📊 DATA SCIENCE
+                       │
+                       ▼
+             🤖 MACHINE LEARNING
+                       │
+                       ▼
+              🧠 DEEP LEARNING
+                       │
+                       ▼
+                   💬 NLP
+                       │
+                       ▼
+              ✨ GENERATIVE AI
+                       │
+                       ▼
+                 🧠 LLMs + RAG
+                       │
+                       ▼
+              ⚙️ AI APPLICATIONS
+                       │
+                       ▼
+                  🚀 DEPLOYMENT
+</p>
+🔬 Currently Exploring
+<table> <tr> <td align="center" width="25%">
+🤖
+
+Generative AI
+
+</td> <td align="center" width="25%">
+🧠
+
+LLM Applications
+
+</td> <td align="center" width="25%">
+🔎
+
+RAG & Vector Search
+
+</td> <td align="center" width="25%">
+⚙️
+
+AI Applications
+
+</td> </tr> </table>
+📜 Certifications & Learning
+Certification / Program	Area
+🎓 Deloitte — Data Analytics Job Simulation	Data Analytics
+🐍 Euron — Python Mastery	Python
+🤖 Proftcode AI — Artificial Intelligence Internship	Artificial Intelligence
+📊 Google Data Analytics	Data Analytics
+🧠 IBM Data Science	Data Science
+📈 Microsoft Power BI	Business Intelligence
+📱 Google Digital Marketing	Digital Marketing
+💻 C Programming Certification	Programming
+🧩 Blind Coding — Techno Aagaaz	Programming
+📈 GitHub Analytics
+<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bhavesh950&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh950&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Bhavesh950&theme=tokyonight&hide_border=true"/> </p>
+🐍 Contribution Journey
+<p align="center"> <img src="https://raw.githubusercontent.com/Bhavesh950/Bhavesh950/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/> </p>
+🏆 GitHub Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Bhavesh950&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6"/> </p>
+📌 Featured Repositories
+<p align="center"> <a href="https://github.com/Bhavesh950/AI-SVG-Studio"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavesh950&repo=AI-SVG-Studio&theme=tokyonight&hide_border=true"/> </a> <a href="https://github.com/Bhavesh950/Spam_Ham_Classifier_NLP_Project"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavesh950&repo=Spam_Ham_Classifier_NLP_Project&theme=tokyonight&hide_border=true"/> </a> </p> <p align="center"> <a href="https://github.com/Bhavesh950/AmbitionBox-Job-Analysis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavesh950&repo=AmbitionBox-Job-Analysis&theme=tokyonight&hide_border=true"/> </a> </p>
+🎯 What I'm Looking For
+
+I'm interested in opportunities related to:
+
+AI Engineer • Machine Learning Engineer • Data Scientist • Generative AI • Python Developer
+
+Interested in building AI-powered products, intelligent automation systems, LLM applications and data-driven solutions.
+
+🤝 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/bhavesh-mulchandani-085759277/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:bhaveshmulchandani651@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Bhavesh950"> <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bhavesh950&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh950&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Bhavesh950&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📌 Featured GitHub Repositories
-
-### 🛡️ Spam Ham Classifier
-
-NLP-based spam detection project using machine learning.
-
-🔗 https://github.com/Bhavesh950/Spam_Ham_Classifier_NLP_Project
-
-### 📊 AmbitionBox Job Analysis
-
-Data analysis project focused on extracting insights from job-market data.
-
----
-
-# 📬 Let's Connect
-
-<div align="center">
-
-<a href="mailto:bhaveshmulchandani651@gmail.com">
-<img src="https://img.shields.io/badge/Email-bhaveshmulchandani651%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/bhavesh-mulchandani-085759277">
-<img src="https://img.shields.io/badge/LinkedIn-Bhavesh%20Mulchandani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Bhavesh950">
-<img src="https://img.shields.io/badge/GitHub-Bhavesh950-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Building. Learning. Experimenting with AI.
-
-**Turning ideas into practical AI-powered applications.**
-
-</div>
+⚡ Building with AI. Learning continuously. Shipping practical solutions.
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:172554,100:0F172A&height=120&section=footer"/> </div> ```
