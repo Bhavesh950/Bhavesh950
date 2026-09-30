@@ -647,33 +647,664 @@ into <b>context-aware, retrieval-enabled and application-ready systems.</b>
 
 ---
 
-<h2 align="center">🗂️ MY PROJECT PORTFOLIO</h2>
+<h2 align="center">📂 MY PROJECT PORTFOLIO</h2>
 
-<div align="center">
-
-<a href="https://github.com/Bhavesh950/AI-SVG-Studio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavesh950&repo=AI-SVG-Studio&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Bhavesh950/Spam_Ham_Classifier_NLP_Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavesh950&repo=Spam_Ham_Classifier_NLP_Project&theme=tokyonight&hide_border=true"/>
-</a>
+<p align="center">
+  A collection of projects built across <b>Data Science, Machine Learning, NLP,
+  Deep Learning, Generative AI, Backend Development and Analytics.</b>
+</p>
 
 <br>
 
-<a href="https://github.com/Bhavesh950/AmbitionBox-Job-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavesh950&repo=AmbitionBox-Job-Analysis&theme=tokyonight&hide_border=true"/>
-</a>
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+📊<br>
+<b>Data & Analytics</b><br>
+EDA • SQL • Visualization
+
+</td>
+
+<td align="center" width="25%">
+
+🤖<br>
+<b>Machine Learning</b><br>
+Classification • Prediction
+
+</td>
+
+<td align="center" width="25%">
+
+🧠<br>
+<b>AI / NLP / DL</b><br>
+NLP • CNN • AI Systems
+
+</td>
+
+<td align="center" width="25%">
+
+✨<br>
+<b>Generative AI</b><br>
+LLMs • RAG • AI Apps
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 <br>
 
+---
+
+<h3 align="center">✨ GENERATIVE AI & INTELLIGENT APPLICATIONS</h3>
+
 <div align="center">
 
-<a href="https://github.com/Bhavesh950?tab=repositories">
-<img src="https://img.shields.io/badge/🔎%20SEE%20ALL%20MY%20REPOSITORIES-1E3A8A?style=for-the-badge&logo=github&logoColor=white"/>
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🎨 AI SVG Studio</h3>
+
+<b>Generative AI Powered SVG Design Platform</b>
+
+<br><br>
+
+An AI-powered application that converts a user's design prompt into structured design specifications and generates scalable SVG graphics using reusable Python templates.
+
+<br><br>
+
+<b>What I built</b>
+
+- Gemini-powered design specification generation
+- Multiple design templates and visual styles
+- Reusable SVG rendering architecture
+- Single & batch SVG generation
+- Live SVG preview
+- SVG / ZIP / JSON export
+- Session-based AI workflow
+
+<br>
+
+<b>Tech:</b>
+
+`Python` `Gemini` `Generative AI` `LangChain` `SVG` `Streamlit`
+
+<br><br>
+
+<a href="https://ai-svg-studio-mq2tbhebhug3z7aaqfj5b4.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
+
+<a href="https://github.com/Bhavesh950/AI-SVG-Studio">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>✈️ Wanderlust AI</h3>
+
+<b>AI Travel Assistant & Trip Planner</b>
+
+<br><br>
+
+A full-stack travel assistant designed to bring destination discovery, travel information and trip planning into one application.
+
+<br><br>
+
+<b>What I explored</b>
+
+- Travel information workflows
+- Destination search
+- Hotel & flight information
+- Weather integration
+- Map-based features
+- AI-assisted travel experience
+- User-facing web application
+
+<br>
+
+<b>Tech:</b>
+
+`Python` `Flask` `MySQL` `APIs` `AI` `HTML` `CSS`
+
+<br><br>
+
+<a href="https://github.com/Bhavesh950/wanderlust-ai">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+---
+
+<h3 align="center">🤖 MACHINE LEARNING & NLP</h3>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🛡️ SpamShield AI</h3>
+
+<b>NLP-Based Spam / Ham Classification System</b>
+
+<br><br>
+
+A Machine Learning application that classifies text messages as Spam or Ham using text preprocessing, TF-IDF feature extraction and Random Forest classification.
+
+<br><br>
+
+<b>What I built</b>
+
+- Text preprocessing pipeline
+- TF-IDF feature extraction
+- Random Forest classifier
+- Probability-based prediction
+- Custom prediction threshold
+- Flask web application
+- Large trained model tracked using Git LFS
+
+<br>
+
+<b>Tech:</b>
+
+`Python` `NLP` `TF-IDF` `Random Forest` `NLTK` `Flask`
+
+<br><br>
+
+<a href="https://github.com/Bhavesh950/Spam_Ham_Classifier_NLP_Project">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🖼️ Image Classifier</h3>
+
+<b>Deep Learning Image Classification Application</b>
+
+<br><br>
+
+A computer vision application where users can upload an image and receive a model-generated prediction through an interactive interface.
+
+<br><br>
+
+<b>What I explored</b>
+
+- Image preprocessing
+- CNN-based classification
+- Deep Learning workflow
+- Model inference
+- Image upload pipeline
+- Interactive prediction interface
+- Model deployment concepts
+
+<br>
+
+<b>Tech:</b>
+
+`Python` `Deep Learning` `CNN` `Streamlit`
+
+<br><br>
+
+<a href="https://github.com/Bhavesh950/image_classifier">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://imageclassifier-urwoc6evrx6wqpmzrz5tej.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+---
+
+<h3 align="center">📊 DATA SCIENCE & ANALYTICS</h3>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📈 AmbitionBox Job Analysis</h3>
+
+<b>Job Market Data Analytics</b>
+
+<br><br>
+
+A data analytics project focused on exploring job and company information to identify patterns, trends and useful insights from collected job-market data.
+
+<br><br>
+
+<b>Analysis Areas</b>
+
+- Dataset exploration
+- Data cleaning
+- Exploratory Data Analysis
+- Statistical analysis
+- Company & job insights
+- Data visualization
+- Pandas-based processing
+
+<br>
+
+<b>Tech:</b>
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Data Analysis`
+
+<br><br>
+
+<a href="https://github.com/Bhavesh950/AmbitionBox-Job-Analysis">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🎬 IMDb Case Study</h3>
+
+<b>SQL + Python Movie Data Analysis</b>
+
+<br><br>
+
+A data analysis case study focused on extracting insights from movie-related data using SQL and Python.
+
+<br><br>
+
+<b>Analysis Areas</b>
+
+- SQL querying
+- Data exploration
+- Movie analysis
+- Revenue analysis
+- Actor analysis
+- Trend identification
+- Python-based analysis
+
+<br>
+
+<b>Tech:</b>
+
+`SQL` `Python` `Pandas` `Jupyter Notebook` `Data Analysis`
+
+<br><br>
+
+<a href="https://github.com/Bhavesh950/Bhavesh_IMDB_Case_Study">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+---
+
+<h3 align="center">💻 PYTHON APPLICATIONS</h3>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🏦 Banking Application</h3>
+
+<b>Console-Based Banking System</b>
+
+<br><br>
+
+A Python-based banking application implementing core banking operations through a structured console workflow.
+
+<br><br>
+
+<b>Features</b>
+
+- User signup
+- Login authentication
+- Password validation
+- Credit / Debit transactions
+- Balance checking
+- Password reset
+- Function-driven application flow
+
+<br>
+
+<b>Tech:</b>
+
+`Python` `Jupyter Notebook`
+
+<br><br>
+
+<a href="https://github.com/Bhavesh950/Banking-Application">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📚 Simple Book Recommendation System</h3>
+
+<b>Python-Based Recommendation Program</b>
+
+<br><br>
+
+A function-driven recommendation project that filters a book dataset based on user-selected genres.
+
+<br><br>
+
+<b>What I practiced</b>
+
+- Functions
+- Lists
+- Dictionaries
+- Sets
+- Dataset filtering
+- User input handling
+- Recommendation logic
+
+<br>
+
+<b>Tech:</b>
+
+`Python` `Jupyter Notebook` `Data Handling`
+
+<br><br>
+
+<a href="https://github.com/Bhavesh950/simple-book-recommendation-system">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+---
+
+<h3 align="center">🛒 WEB & DATABASE APPLICATIONS</h3>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🛍️ E-Commerce Application</h3>
+
+<b>Python-Based Application</b>
+
+<br><br>
+
+An application project focused on building practical software functionality using Python and application-level workflows.
+
+<br><br>
+
+<b>Focus</b>
+
+- Application logic
+- Python programming
+- Structured project development
+- User-oriented workflows
+
+<br>
+
+<b>Tech:</b>
+
+`Python`
+
+<br><br>
+
+<a href="https://github.com/Bhavesh950/ecomm">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🧩 Flask / Database Work</h3>
+
+<b>Backend & Application Engineering</b>
+
+<br><br>
+
+Alongside my individual projects, I have worked with Flask-based applications, SQL databases, APIs, authentication workflows and application-level data handling.
+
+<br><br>
+
+<b>Focus</b>
+
+- Flask application structure
+- REST APIs
+- MySQL
+- SQLAlchemy
+- Authentication
+- Database operations
+- Frontend / backend integration
+
+<br>
+
+<b>Tech:</b>
+
+`Python` `Flask` `MySQL` `SQLAlchemy` `REST APIs`
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+---
+
+<h3 align="center">🔬 AI / ML PROJECT WORK</h3>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🚨 IEEE-CIS Fraud Detection</h3>
+
+<b>Deep Learning / ANN Fraud Detection</b>
+
+<br><br>
+
+A fraud detection project based on the IEEE-CIS Fraud Detection dataset, exploring data preprocessing, imbalance handling and Artificial Neural Network based classification.
+
+<br><br>
+
+<b>Work Covered</b>
+
+- Transaction + identity data integration
+- Missing-value analysis
+- Class imbalance analysis
+- Categorical feature processing
+- Feature preprocessing
+- SMOTE-based imbalance handling
+- Dimensionality reduction exploration
+- ANN model development
+- Precision / Recall / AUC evaluation
+
+<br>
+
+<b>Tech:</b>
+
+`Python` `Pandas` `Scikit-learn` `SMOTE` `TensorFlow` `Keras` `ANN`
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🧠 Deep Learning & Computer Vision</h3>
+
+<b>Image-Based AI Experiments</b>
+
+<br><br>
+
+Explored deep learning workflows for image classification and computer vision applications, including transfer learning and pretrained CNN architectures.
+
+<br><br>
+
+<b>Concepts Explored</b>
+
+- CNN architectures
+- Transfer Learning
+- ImageNet
+- ResNet
+- VGGNet
+- MobileNet
+- Data Augmentation
+- Model Evaluation
+- Image Prediction Applications
+
+<br>
+
+<b>Tech:</b>
+
+`Python` `TensorFlow` `Keras` `CNN` `ResNet` `Streamlit`
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+---
+
+<h3 align="center">🗺️ PROJECT EVOLUTION</h3>
+
+<div align="center">
+
+```text
+🐍 Python
+      ↓
+📊 Data Analysis & SQL
+      ↓
+🤖 Machine Learning
+      ↓
+🧠 Deep Learning
+      ↓
+💬 NLP
+      ↓
+✨ Generative AI
+      ↓
+🧠 LLM Applications
+      ↓
+🔎 RAG & Vector Search
+      ↓
+⚙️ AI Applications
+      ↓
+🌐 APIs + Databases
+      ↓
+🚀 Deployable Solutions
+```
+
+</div>
+
+<br>
+
+---
+
+<h3 align="center">📊 PROJECT SKILL MATRIX</h3>
+
+<div align="center">
+
+| Project                   | Python | ML | DL | NLP | GenAI | SQL / DB | Flask | Streamlit |
+| ------------------------- | ------ | -- | -- | --- | ----- | -------- | ----- | --------- |
+| 🎨 AI SVG Studio          | ✅      | —  | —  | —   | ✅     | —        | —     | ✅         |
+| 🛡️ SpamShield AI         | ✅      | ✅  | —  | ✅   | —     | —        | ✅     | —         |
+| 🖼️ Image Classifier      | ✅      | —  | ✅  | —   | —     | —        | —     | ✅         |
+| 📈 AmbitionBox Analysis   | ✅      | —  | —  | —   | —     | —        | —     | —         |
+| 🎬 IMDb Case Study        | ✅      | —  | —  | —   | —     | ✅        | —     | —         |
+| ✈️ Wanderlust AI          | ✅      | —  | —  | —   | ✅     | ✅        | ✅     | —         |
+| 🚨 Fraud Detection        | ✅      | ✅  | ✅  | —   | —     | —        | —     | —         |
+| 🏦 Banking Application    | ✅      | —  | —  | —   | —     | —        | —     | —         |
+| 📚 Book Recommendation    | ✅      | —  | —  | —   | —     | —        | —     | —         |
+| 🛒 E-Commerce Application | ✅      | —  | —  | —   | —     | —        | —     | —         |
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<h3>🔎 Want to explore the complete code?</h3>
+
+<a href="https://github.com/Bhavesh950?tab=repositories">
+
+<img src="https://img.shields.io/badge/🚀%20EXPLORE%20ALL%20REPOSITORIES-1E3A8A?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<b>From notebooks to AI applications — every project represents a step in my learning journey.</b>
 
 </div>
 
