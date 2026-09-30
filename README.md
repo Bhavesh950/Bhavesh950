@@ -1,28 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,100:1E3A8A&height=240&section=header&text=BHAVESH%20MULCHANDANI&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20DATA%20SCIENTIST%20%7C%20GENERATIVE%20AI&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1E3A8A,100:312E81&height=260&section=header&text=BHAVESH%20MULCHANDANI&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENTIST%20%7C%20AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI&descAlignY=59&descSize=17&animation=fadeIn" width="100%"/>
 
 <h1>👋 Hi, I'm Bhavesh</h1>
 
-<h3>Building intelligent systems with Python, Machine Learning & Generative AI.</h3>
+<h3>Turning data, models and AI into practical software solutions.</h3>
 
 <br>
 
 <a href="https://www.linkedin.com/in/bhavesh-mulchandani-085759277/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:bhaveshmulchandani651@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Bhavesh950">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Bhavesh950&label=PROFILE%20VIEWS&color=1E3A8A&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Bhavesh950&label=PROFILE%20VIEWS&color=312E81&style=for-the-badge"/>
 
 </div>
 
@@ -33,13 +33,18 @@
 <h2 align="center">🧠 ABOUT ME</h2>
 
 <p align="center">
-I build <b>AI-powered applications</b> by combining Machine Learning, Deep Learning,<br>
-Natural Language Processing and Generative AI with practical software engineering.
+I build <b>AI-powered applications</b> by combining Python, Machine Learning, Deep Learning,
+NLP and Generative AI with practical software development.
 </p>
 
 <p align="center">
-My focus is on turning AI concepts into <b>working, usable applications</b> —
-from data and model development to LLM applications, RAG pipelines, APIs and deployment.
+My work spans the complete journey — from <b>data processing and model development</b>
+to <b>LLM applications, RAG pipelines, APIs and deployable AI products.</b>
+</p>
+
+<p align="center">
+I enjoy understanding how an AI idea works internally and then turning that idea
+into something people can actually use.
 </p>
 
 <br>
@@ -48,35 +53,39 @@ from data and model development to LLM applications, RAG pipelines, APIs and dep
 
 <table>
 <tr>
-<td align="center" width="33%">
+
+<td align="center" width="25%">
 
 🤖<br>
-<b>AI / ML</b><br>
-Machine Learning<br>
-Deep Learning<br>
-NLP
+<b>Machine Learning</b><br>
+Models • Features • Evaluation
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 🧠<br>
-<b>Generative AI</b><br>
-LLMs<br>
-RAG<br>
-Vector Databases
+<b>Deep Learning</b><br>
+Neural Networks • NLP
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
+
+✨<br>
+<b>Generative AI</b><br>
+LLMs • RAG • LangChain
+
+</td>
+
+<td align="center" width="25%">
 
 ⚙️<br>
 <b>AI Engineering</b><br>
-Python<br>
-APIs<br>
-AI Applications
+APIs • Flask • Streamlit
 
 </td>
+
 </tr>
 </table>
 
@@ -84,19 +93,118 @@ AI Applications
 
 ---
 
-<h2 align="center">⚡ HOW I BUILD AI SYSTEMS</h2>
+<h2 align="center">🚀 MY AI JOURNEY — WHAT I'VE LEARNED & HOW I BUILD</h2>
+
+<p align="center">
+My learning path has evolved from <b>data and programming</b> to
+<b>machine learning, deep learning, NLP and Generative AI</b> —
+with a strong focus on converting concepts into working applications.
+</p>
 
 ```mermaid
 flowchart LR
-    A["📊 Data"] --> B["🧹 Processing"]
-    B --> C["🤖 Machine Learning"]
-    C --> D["🧠 Deep Learning"]
+    A["🐍 Python<br/>Programming"] --> B["📊 Data<br/>Analysis"]
+    B --> C["🤖 Machine<br/>Learning"]
+    C --> D["🧠 Deep<br/>Learning"]
     D --> E["💬 NLP"]
-    E --> F["✨ Generative AI"]
-    F --> G["🧠 LLMs + RAG"]
-    G --> H["⚙️ AI Application"]
-    H --> I["🚀 Deployment"]
+    E --> F["✨ Generative<br/>AI"]
+    F --> G["🧠 LLMs"]
+    G --> H["🔎 RAG<br/>+ Vector Search"]
+    H --> I["⚙️ AI<br/>Applications"]
+    I --> J["🌐 APIs<br/>Flask / Streamlit"]
+    J --> K["🚀 Deployment"]
+
+    style A fill:#0F172A,color:#FFFFFF,stroke:#38BDF8
+    style B fill:#172554,color:#FFFFFF,stroke:#60A5FA
+    style C fill:#1E3A8A,color:#FFFFFF,stroke:#818CF8
+    style D fill:#312E81,color:#FFFFFF,stroke:#A78BFA
+    style E fill:#3B0764,color:#FFFFFF,stroke:#C084FC
+    style F fill:#4C1D95,color:#FFFFFF,stroke:#C4B5FD
+    style G fill:#581C87,color:#FFFFFF,stroke:#D8B4FE
+    style H fill:#701A75,color:#FFFFFF,stroke:#F0ABFC
+    style I fill:#164E63,color:#FFFFFF,stroke:#67E8F9
+    style J fill:#075985,color:#FFFFFF,stroke:#38BDF8
+    style K fill:#064E3B,color:#FFFFFF,stroke:#34D399
 ```
+
+<div align="center">
+
+<b>LEARN → EXPERIMENT → BUILD → INTEGRATE → DEPLOY</b>
+
+</div>
+
+---
+
+<h2 align="center">🛠️ WHAT I BUILD</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+🐍<br>
+<b>Python</b><br>
+AI Development
+
+</td>
+
+<td align="center" width="20%">
+
+🤖<br>
+<b>ML / DL</b><br>
+Prediction Systems
+
+</td>
+
+<td align="center" width="20%">
+
+💬<br>
+<b>NLP</b><br>
+Text Intelligence
+
+</td>
+
+<td align="center" width="20%">
+
+✨<br>
+<b>GenAI</b><br>
+LLM Applications
+
+</td>
+
+<td align="center" width="20%">
+
+🌐<br>
+<b>APIs</b><br>
+Deployable Apps
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-1E3A8A?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-9333EA?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-4F46E5?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-6D28D9?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-7E22CE?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector%20Search-A21CAF?style=for-the-badge&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -104,107 +212,182 @@ flowchart LR
 
 <div align="center">
 
-<h3>🎨 AI SVG STUDIO</h3>
+<table>
+<tr>
 
-<b>Generative AI Powered SVG Design Platform</b>
+<td width="50%" valign="top">
 
-<br><br>
+<h3 align="center">🎨 AI SVG STUDIO</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:312E81&height=85&text=AI%20SVG%20STUDIO&fontSize=28&fontColor=FFFFFF" width="90%"/>
+<p align="center">
+<b>Generative AI Design Platform</b>
+</p>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:312E81&height=80&text=AI%20SVG%20STUDIO&fontSize=26&fontColor=FFFFFF" width="100%"/>
 
 <br>
 
-AI-powered application that converts a user's design prompt into a structured design specification and generates scalable SVG graphics using reusable Python-based templates.
+AI-powered application that transforms a user's design prompt into structured design specifications and generates scalable SVG graphics through reusable Python templates.
 
-### ✨ What it does
+<br><br>
 
-- 🤖 Gemini-powered design specification generation
-- 🎨 Multiple visual styles and templates
+<b>Key Capabilities</b>
+
+- 🤖 Gemini-powered design specification
+- 🎨 Multiple templates and visual styles
 - 🧩 Reusable SVG rendering architecture
 - 📦 Single & batch SVG generation
 - 👁️ Live SVG preview
-- 📥 SVG / ZIP / JSON downloads
+- 📥 SVG / ZIP / JSON export
 - 💬 Session-based AI workflow
 
-**Stack:** `Python` `Gemini` `Generative AI` `LangChain` `SVG` `Streamlit`
+<br>
 
-<div align="center">
+<b>Tech</b>
+
+`Python` `Gemini` `Generative AI` `LangChain` `SVG` `Streamlit`
+
+<br><br>
 
 <a href="https://ai-svg-studio-mq2tbhebhug3z7aaqfj5b4.streamlit.app/">
 <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Bhavesh950/AI-SVG-Studio">
-<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</td>
 
-<br><br>
+<td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">🛡️ SPAMSHIELD AI</h3>
 
-<h3>🛡️ SPAMSHIELD AI</h3>
+<p align="center">
+<b>NLP Spam / Ham Classification</b>
+</p>
 
-<b>NLP-Based Spam / Ham Classification System</b>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:064E3B&height=85&text=SPAMSHIELD%20AI&fontSize=28&fontColor=FFFFFF" width="90%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:065F46&height=80&text=SPAMSHIELD%20AI&fontSize=26&fontColor=FFFFFF" width="100%"/>
 
 <br>
 
-Machine Learning application that classifies text messages as **Spam or Ham** using text preprocessing, TF-IDF feature extraction and Random Forest classification.
+NLP-based Machine Learning application that classifies text messages as Spam or Ham using preprocessing, TF-IDF feature extraction and Random Forest classification.
 
-### ✨ What it does
+<br><br>
 
-- 🧹 Text preprocessing
+<b>Key Capabilities</b>
+
+- 🧹 Text preprocessing pipeline
 - 🔤 TF-IDF feature extraction
 - 🌲 Random Forest classification
 - 🎯 Custom prediction threshold
-- 🌐 Flask web application
+- 🌐 Flask-based web application
 - 📊 Probability-based predictions
 - 📁 Git LFS model tracking
 
-**Stack:** `Python` `NLP` `TF-IDF` `Random Forest` `Flask` `NLTK`
+<br>
 
-<div align="center">
+<b>Tech</b>
+
+`Python` `NLP` `TF-IDF` `Random Forest` `Flask` `NLTK`
+
+<br><br>
 
 <a href="https://github.com/Bhavesh950/Spam_Ham_Classifier_NLP_Project">
-<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</td>
 
-<br><br>
+</tr>
 
-<div align="center">
+<tr>
 
-<h3>📊 AMBITIONBOX JOB ANALYSIS</h3>
+<td width="50%" valign="top">
 
-<b>Data Analysis & Job Market Insights</b>
+<h3 align="center">📊 AMBITIONBOX JOB ANALYSIS</h3>
 
-<br><br>
+<p align="center">
+<b>Job Market Data Analytics</b>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1E3A8A&height=85&text=JOB%20MARKET%20ANALYTICS&fontSize=27&fontColor=FFFFFF" width="90%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1E3A8A&height=80&text=JOB%20MARKET%20ANALYTICS&fontSize=25&fontColor=FFFFFF" width="100%"/>
 
 <br>
 
-Data analytics project focused on cleaning, exploring and visualizing job and company information to identify useful patterns and insights.
+Data analytics project focused on exploring job and company information to identify patterns, trends and useful market insights.
 
-**Focus:** `Python` `Pandas` `NumPy` `Matplotlib` `EDA` `Data Analysis`
+<br><br>
 
-<div align="center">
+<b>Key Areas</b>
+
+- 📊 Dataset exploration
+- 🧹 Data cleaning
+- 🔍 Exploratory Data Analysis
+- 📈 Statistical analysis
+- 📉 Data visualization
+- 🐼 Pandas-based processing
+
+<br>
+
+<b>Tech</b>
+
+`Python` `Pandas` `NumPy` `Matplotlib` `EDA` `Data Analysis`
+
+<br><br>
 
 <a href="https://github.com/Bhavesh950/AmbitionBox-Job-Analysis">
-<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🔬 MORE AI / DATA WORK</h3>
+
+<p align="center">
+<b>From experiments to practical applications</b>
+</p>
+
+<br>
+
+My projects cover multiple layers of the AI development lifecycle:
+
+<br>
+
+📊 <b>Data Analysis</b><br>
+Exploration, cleaning and visualization
+
+<br><br>
+
+🤖 <b>Machine Learning</b><br>
+Feature engineering, training and evaluation
+
+<br><br>
+
+🧠 <b>Deep Learning</b><br>
+Neural networks and computer vision
+
+<br><br>
+
+💬 <b>NLP</b><br>
+Text processing and classification
+
+<br><br>
+
+✨ <b>Generative AI</b><br>
+LLMs, RAG and AI-powered applications
+
+<br><br>
+
+🌐 <b>Application Layer</b><br>
+Flask, Streamlit, APIs and databases
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -214,71 +397,68 @@ Data analytics project focused on cleaning, exploring and visualizing job and co
 
 <div align="center">
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 <h3>🤖 Grass Solutions</h3>
 
 <b>AI / ML Training & Internship</b>
 
-<br><br>
+<br>
 
-📅 <b>Aug 2025 — Jun 2026</b>
+📅 <b>August 2025 — June 2026</b>
 
-<br><br>
+</div>
 
-Worked on practical Artificial Intelligence and Machine Learning concepts with hands-on exposure to modern AI application development.
+Worked through practical Artificial Intelligence and Machine Learning concepts with increasing exposure to modern AI application development. The experience covered the progression from core ML/DL concepts to Generative AI and LLM-based application workflows.
 
-<br><br>
+<b>Key Areas Explored</b>
 
-<b>Focus Areas</b>
+- 🤖 Machine Learning concepts, model development and evaluation
+- 🧠 Deep Learning workflows and neural-network based approaches
+- 💬 Natural Language Processing concepts and text-based applications
+- ✨ Generative AI and LLM application workflows
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🗂️ Vector databases and similarity-based retrieval
+- ⚡ FAISS for vector search and retrieval workflows
+- 🔗 LangChain for LLM application orchestration
+- ⚙️ Practical experimentation with AI application development
+- 🐍 Python-based implementation of AI concepts
 
-<br><br>
+<div align="center">
 
-🧠 Machine Learning<br>
-🧠 Deep Learning<br>
-✨ Generative AI<br>
-🧠 LLM Applications<br>
-🔎 RAG<br>
-🗂️ Vector Databases<br>
-🔗 LangChain<br>
-⚡ FAISS
+`Machine Learning` `Deep Learning` `NLP` `Generative AI` `LLMs` `RAG` `FAISS` `LangChain`
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+<br>
+
+---
+
+<div align="center">
 
 <h3>🧠 Proftcode AI</h3>
 
 <b>Artificial Intelligence Intern</b>
 
-<br><br>
+<br>
 
-📅 <b>Jun 2026 — Aug 2026</b>
+📅 <b>June 2026 — August 2026</b>
 
-<br><br>
+</div>
 
-Worked on practical AI development with hands-on exposure to data processing, model experimentation and AI application development.
+Worked as an Artificial Intelligence Intern with practical exposure to Python-based AI development, data processing, model experimentation and application-oriented AI workflows.
 
-<br><br>
+<b>Key Areas Explored</b>
 
-<b>Focus Areas</b>
+- 🐍 Python-based AI development
+- 🤖 Artificial Intelligence and Machine Learning workflows
+- 📊 Data processing and preparation
+- 🧠 Model development and experimentation
+- ⚙️ AI application development
+- 🔬 Practical implementation of AI concepts
+- 🧩 Connecting AI/ML concepts with application-level solutions
 
-<br><br>
+<div align="center">
 
-🐍 Python<br>
-🤖 Artificial Intelligence<br>
-📊 Machine Learning<br>
-🧠 Model Development<br>
-🔎 Data Processing<br>
-⚙️ AI Applications
-
-</td>
-
-</tr>
-</table>
+`Python` `Artificial Intelligence` `Machine Learning` `Data Processing` `Model Development` `AI Applications`
 
 </div>
 
@@ -288,159 +468,138 @@ Worked on practical AI development with hands-on exposure to data processing, mo
 
 <div align="center">
 
-<h3>👨‍💻 Programming</h3>
+<h3>🐍 Programming</h3>
 
-<img src="https://skillicons.dev/icons?i=python,c,java&theme=dark"/>
-
-<br><br>
-
-<h3>🤖 AI / Machine Learning</h3>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 <br><br>
 
-<code>Machine Learning</code>
-<code>Deep Learning</code>
-<code>NLP</code>
-<code>Generative AI</code>
-<code>LLMs</code>
-<code>RAG</code>
+<h3>🤖 Machine Learning & Deep Learning</h3>
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
 <br><br>
 
-<h3>🧠 Generative AI</h3>
+<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation-1D4ED8?style=flat-square"/>
 
-<code>LangChain</code>
-<code>FAISS</code>
-<code>Vector Databases</code>
-<code>Prompt Engineering</code>
-<code>Gemini</code>
+<br><br>
+
+<h3>✨ Generative AI & LLM Engineering</h3>
+
+<img src="https://img.shields.io/badge/Generative%20AI-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7E22CE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-A21CAF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-DB2777?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
 
 <br><br>
 
 <h3>📊 Data & Analytics</h3>
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,mysql,mongodb&theme=dark"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br><br>
 
-<code>Pandas</code>
-<code>NumPy</code>
-<code>Matplotlib</code>
-<code>Seaborn</code>
-<code>Power BI</code>
-<code>SQL</code>
+<h3>🌐 Backend, APIs & Applications</h3>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 <br><br>
 
-<h3>🌐 Development & Tools</h3>
+<h3>🗄️ Databases</h3>
 
-<img src="https://skillicons.dev/icons?i=flask,streamlit,git,github,postman&theme=dark"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 <br><br>
 
-<code>REST APIs</code>
-<code>Flask</code>
-<code>Streamlit</code>
-<code>Git</code>
-<code>GitHub</code>
-<code>Postman</code>
+<h3>🛠️ Development Tools</h3>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </div>
 
 ---
 
-<h2 align="center">🧠 AI ENGINEERING MAP</h2>
+<h2 align="center">🔬 HOW I TURN AI CONCEPTS INTO APPLICATIONS</h2>
 
 ```mermaid
-graph TD
+flowchart TB
 
-    PY["🐍 Python"]
+    A["💡 Problem / Idea"]
 
-    ML["🤖 Machine Learning"]
-    DL["🧠 Deep Learning"]
-    NLP["💬 NLP"]
+    B["📊 Data & Research"]
+    C["🧹 Processing & EDA"]
+    D["🤖 ML / DL / NLP"]
+    E["✨ GenAI / LLM"]
 
-    GEN["✨ Generative AI"]
-    LLM["🧠 LLMs"]
-    RAG["🔎 RAG"]
-    VECTOR["🗂️ Vector Databases"]
+    F["🔎 RAG + Vector Search"]
+    G["⚙️ Application Logic"]
+    H["🌐 API / Flask / Streamlit"]
+    I["🗄️ Database"]
+    J["🚀 Deploy & Iterate"]
 
-    API["🌐 APIs"]
-    APP["⚙️ AI Applications"]
-    DEPLOY["🚀 Deployment"]
-
-    PY --> ML
-    PY --> DL
-    PY --> NLP
-
-    ML --> GEN
-    DL --> GEN
-    NLP --> GEN
-
-    GEN --> LLM
-    LLM --> RAG
-    RAG --> VECTOR
-
-    VECTOR --> API
-    API --> APP
-    APP --> DEPLOY
+    A --> B
+    B --> C
+    C --> D
+    D --> G
+    E --> F
+    F --> G
+    G --> H
+    H --> I
+    I --> J
 ```
-
----
-
-<h2 align="center">🔬 CURRENTLY EXPLORING</h2>
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-🤖
-
-<br>
-
-<b>Generative AI</b>
-
-</td>
-
-<td align="center" width="25%">
-
-🧠
-
-<br>
-
-<b>LLM Applications</b>
-
-</td>
-
-<td align="center" width="25%">
-
-🔎
-
-<br>
-
-<b>RAG & Vector Search</b>
-
-</td>
-
-<td align="center" width="25%">
-
-⚙️
-
-<br>
-
-<b>AI Applications</b>
-
-</td>
-
-</tr>
-</table>
+<b>Understand → Experiment → Engineer → Integrate → Deploy → Improve</b>
 
 </div>
+
+---
+
+<h2 align="center">📚 CURRENTLY EXPLORING</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Generative%20AI-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-7E22CE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Search-A21CAF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Engineering-1E40AF?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<p align="center">
+Exploring how modern AI systems move beyond individual models
+into <b>context-aware, retrieval-enabled and application-ready systems.</b>
+</p>
 
 ---
 
@@ -470,19 +629,51 @@ graph TD
 
 <a href="https://github.com/Bhavesh950">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Bhavesh950&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&cache_seconds=86400"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Bhavesh950&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github"/>
 
 </a>
 
 <a href="https://github.com/Bhavesh950">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh950&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh950&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </a>
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=Bhavesh950&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<h2 align="center">🗂️ MY PROJECT PORTFOLIO</h2>
+
+<div align="center">
+
+<a href="https://github.com/Bhavesh950/AI-SVG-Studio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavesh950&repo=AI-SVG-Studio&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Bhavesh950/Spam_Ham_Classifier_NLP_Project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavesh950&repo=Spam_Ham_Classifier_NLP_Project&theme=tokyonight&hide_border=true"/>
+</a>
+
+<br>
+
+<a href="https://github.com/Bhavesh950/AmbitionBox-Job-Analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavesh950&repo=AmbitionBox-Job-Analysis&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Bhavesh950?tab=repositories">
+<img src="https://img.shields.io/badge/🔎%20SEE%20ALL%20MY%20REPOSITORIES-1E3A8A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -508,37 +699,22 @@ graph TD
 
 ---
 
-<h2 align="center">📌 FEATURED REPOSITORIES</h2>
+<h2 align="center">🎯 WHAT I'M LOOKING FOR</h2>
 
 <div align="center">
 
-<a href="https://github.com/Bhavesh950/AI-SVG-Studio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavesh950&repo=AI-SVG-Studio&theme=tokyonight&hide_border=true"/>
-</a>
+<img src="https://img.shields.io/badge/AI%20Engineer-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning%20Engineer-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Scientist-4C1D95?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python%20Developer-0369A1?style=for-the-badge"/>
 
-<a href="https://github.com/Bhavesh950/Spam_Ham_Classifier_NLP_Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavesh950&repo=Spam_Ham_Classifier_NLP_Project&theme=tokyonight&hide_border=true"/>
-</a>
+<br><br>
 
-<br>
-
-<a href="https://github.com/Bhavesh950/AmbitionBox-Job-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavesh950&repo=AmbitionBox-Job-Analysis&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
----
-
-<h2 align="center">🎯 OPEN TO OPPORTUNITIES</h2>
-
-<div align="center">
-
-<h3>AI Engineer · Machine Learning Engineer · Data Scientist · Generative AI · Python Developer</h3>
-
-<br>
-
-Interested in building <b>AI-powered products, intelligent automation systems, LLM applications and data-driven solutions.</b>
+<p>
+Interested in building <b>AI-powered products, intelligent automation systems,
+LLM applications, machine learning solutions and data-driven software.</b>
+</p>
 
 </div>
 
@@ -549,15 +725,15 @@ Interested in building <b>AI-powered products, intelligent automation systems, L
 <div align="center">
 
 <a href="https://www.linkedin.com/in/bhavesh-mulchandani-085759277/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:bhaveshmulchandani651@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Bhavesh950">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
@@ -566,6 +742,6 @@ Interested in building <b>AI-powered products, intelligent automation systems, L
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,100:1E3A8A&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1E3A8A,100:312E81&height=140&section=footer"/>
 
 </div>
