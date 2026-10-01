@@ -1128,11 +1128,49 @@ Explored deep learning workflows for image classification and computer vision ap
 
 <h2 align="center">🐍 CONTRIBUTION JOURNEY</h2>
 
+<p align="center">
+  <b>Building consistently. Learning continuously. Contributing every day.</b>
+</p>
+
+<br>
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Bhavesh950/Bhavesh950/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<table>
+<tr>
+<td align="center" width="100%">
+
+<img
+  src="https://raw.githubusercontent.com/Bhavesh950/Bhavesh950/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+  width="900"
+/>
+
+</td>
+</tr>
+</table>
 
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILD-1E3A8A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LEARN-312E81?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/CREATE-4F46E5?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/CONTRIBUTE-059669?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<p align="center">
+  <sub>
+    Every contribution represents another step in my journey toward building
+    practical AI & software solutions.
+  </sub>
+</p>
+
+<br>
+
+---
 
 ---
 
