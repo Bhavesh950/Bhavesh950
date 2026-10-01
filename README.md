@@ -178,6 +178,8 @@ APIs • Applications<br>
 Deployment
 
 </td> </tr> </table> </div> <br> <p align="center"> <b>LEARN → EXPERIMENT → BUILD → INTEGRATE → DEPLOY → IMPROVE</b> </p> <p align="center"> My approach is to understand the fundamentals first, experiment with models and AI techniques, then integrate them into practical applications that can be used beyond a notebook. </p> <br> <div align="center"> <img src="https://img.shields.io/badge/LEARN-0F172A?style=for-the-badge"/> <img src="https://img.shields.io/badge/EXPERIMENT-1E3A8A?style=for-the-badge"/> <img src="https://img.shields.io/badge/BUILD-4F46E5?style=for-the-badge"/> <img src="https://img.shields.io/badge/INTEGRATE-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/DEPLOY-059669?style=for-the-badge"/> </div> <br>
+
+
 ---
 
 <h2 align="center">💼 PROFESSIONAL EXPERIENCE</h2>
