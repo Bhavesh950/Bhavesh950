@@ -1176,11 +1176,33 @@ Explored deep learning workflows for image classification and computer vision ap
 
 <h2 align="center">🏆 GITHUB ACHIEVEMENTS</h2>
 
+<p align="center">
+  <b>Milestones earned through building, contributing and learning.</b>
+</p>
+
+<br>
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bhavesh950&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6"/>
+<img
+  src="https://raw.githubusercontent.com/Bhavesh950/Bhavesh950/main/profile/trophy.svg"
+  alt="GitHub Trophies"
+  width="900"
+/>
 
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILD-020617?style=for-the-badge&logo=github&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/CONTRIBUTE-020617?style=for-the-badge&logo=git&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/ACHIEVE-020617?style=for-the-badge&logo=starship&logoColor=FACC15" />
+</p>
+
+<br>
+
+---
 
 ---
 
