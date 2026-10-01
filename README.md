@@ -269,12 +269,25 @@ Worked as an Artificial Intelligence Intern with practical exposure to Python-ba
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supervised%20Learning-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Unsupervised%20Learning-1D4ED8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Regression-1E40AF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Classification-3730A3?style=flat-square"/>
-<img src="https://img.shields.io/badge/Clustering-4338CA?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ensemble%20Learning-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Supervised%20Learning-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Unsupervised%20Learning-1D4ED8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Regression-1E40AF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Classification-3730A3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clustering-4338CA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ensemble%20Learning-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ANN-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNN-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RNN-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LSTM-A21CAF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transfer%20Learning-86198F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-701A75?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/NLP-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation-1D4ED8?style=for-the-badge"/>
 
 <br>
 
