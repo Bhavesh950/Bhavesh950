@@ -96,48 +96,6 @@ APIs • Flask • Streamlit
 <h2 align="center">🚀 MY AI JOURNEY — WHAT I'VE LEARNED & HOW I BUILD</h2>
 
 <p align="center">
-My learning path has evolved from <b>data and programming</b> to
-<b>machine learning, deep learning, NLP and Generative AI</b> —
-with a strong focus on converting concepts into working applications.
-</p>
-
-```mermaid
-flowchart LR
-    A["🐍 Python<br/>Programming"] --> B["📊 Data<br/>Analysis"]
-    B --> C["🤖 Machine<br/>Learning"]
-    C --> D["🧠 Deep<br/>Learning"]
-    D --> E["💬 NLP"]
-    E --> F["✨ Generative<br/>AI"]
-    F --> G["🧠 LLMs"]
-    G --> H["🔎 RAG<br/>+ Vector Search"]
-    H --> I["⚙️ AI<br/>Applications"]
-    I --> J["🌐 APIs<br/>Flask / Streamlit"]
-    J --> K["🚀 Deployment"]
-
-    style A fill:#0F172A,color:#FFFFFF,stroke:#38BDF8
-    style B fill:#172554,color:#FFFFFF,stroke:#60A5FA
-    style C fill:#1E3A8A,color:#FFFFFF,stroke:#818CF8
-    style D fill:#312E81,color:#FFFFFF,stroke:#A78BFA
-    style E fill:#3B0764,color:#FFFFFF,stroke:#C084FC
-    style F fill:#4C1D95,color:#FFFFFF,stroke:#C4B5FD
-    style G fill:#581C87,color:#FFFFFF,stroke:#D8B4FE
-    style H fill:#701A75,color:#FFFFFF,stroke:#F0ABFC
-    style I fill:#164E63,color:#FFFFFF,stroke:#67E8F9
-    style J fill:#075985,color:#FFFFFF,stroke:#38BDF8
-    style K fill:#064E3B,color:#FFFFFF,stroke:#34D399
-```
-
-<div align="center">
-
-<b>LEARN → EXPERIMENT → BUILD → INTEGRATE → DEPLOY</b>
-
-</div>
-
----
-
-<h2 align="center">🚀 MY AI JOURNEY — WHAT I'VE LEARNED & HOW I BUILD</h2>
-
-<p align="center">
   <b>From writing Python and working with data to building intelligent, 
   retrieval-enabled and deployable AI applications.</b>
 </p>
@@ -184,6 +142,42 @@ flowchart LR
     style J fill:#075985,color:#FFFFFF,stroke:#38BDF8
     style K fill:#064E3B,color:#FFFFFF,stroke:#34D399
 ```
+</div> <br> <div align="center"> <table> <tr> <td align="center" width="20%">
+
+🐍<br>
+<b>FOUNDATION</b><br><br>
+Python • Programming<br>
+Data • SQL
+
+</td> <td align="center" width="20%">
+
+🤖<br>
+<b>INTELLIGENCE</b><br><br>
+Machine Learning<br>
+Deep Learning • NLP
+
+</td> <td align="center" width="20%">
+
+✨<br>
+<b>GENERATIVE AI</b><br><br>
+LLMs • Prompting<br>
+AI Workflows
+
+</td> <td align="center" width="20%">
+
+🔎<br>
+<b>RETRIEVAL</b><br><br>
+RAG • Embeddings<br>
+Vector Search
+
+</td> <td align="center" width="20%">
+
+🚀<br>
+<b>ENGINEERING</b><br><br>
+APIs • Applications<br>
+Deployment
+
+</td> </tr> </table> </div> <br> <p align="center"> <b>LEARN → EXPERIMENT → BUILD → INTEGRATE → DEPLOY → IMPROVE</b> </p> <p align="center"> My approach is to understand the fundamentals first, experiment with models and AI techniques, then integrate them into practical applications that can be used beyond a notebook. </p> <br> <div align="center"> <img src="https://img.shields.io/badge/LEARN-0F172A?style=for-the-badge"/> <img src="https://img.shields.io/badge/EXPERIMENT-1E3A8A?style=for-the-badge"/> <img src="https://img.shields.io/badge/BUILD-4F46E5?style=for-the-badge"/> <img src="https://img.shields.io/badge/INTEGRATE-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/DEPLOY-059669?style=for-the-badge"/> </div> <br>
 ---
 
 <h2 align="center">💼 PROFESSIONAL EXPERIENCE</h2>
