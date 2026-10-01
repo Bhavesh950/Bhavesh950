@@ -135,234 +135,55 @@ flowchart LR
 
 ---
 
-<h2 align="center">🛠️ WHAT I BUILD</h2>
+<h2 align="center">🚀 MY AI JOURNEY — WHAT I'VE LEARNED & HOW I BUILD</h2>
 
 <p align="center">
-  <b>Practical AI systems that turn data, models and intelligence into usable applications.</b>
+  <b>From writing Python and working with data to building intelligent, 
+  retrieval-enabled and deployable AI applications.</b>
 </p>
 
 <br>
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-🤖<br>
-<b>MACHINE LEARNING SOLUTIONS</b>
-
-<br><br>
-
-Prediction Systems<br>
-Classification • Feature Engineering<br>
-Model Evaluation
-
-</td>
-
-<td align="center" width="33%">
-
-🧠<br>
-<b>DEEP LEARNING SYSTEMS</b>
-
-<br><br>
-
-Neural Network Solutions<br>
-Computer Vision • CNNs<br>
-Image Intelligence
-
-</td>
-
-<td align="center" width="33%">
-
-💬<br>
-<b>NLP APPLICATIONS</b>
-
-<br><br>
-
-Text Intelligence<br>
-Text Classification • NLP Workflows<br>
-Language-Based Systems
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="33%">
-
-✨<br>
-<b>GENERATIVE AI APPLICATIONS</b>
-
-<br><br>
-
-LLM-Powered Solutions<br>
-AI Assistants • Content Generation<br>
-Intelligent Workflows
-
-</td>
-
-<td align="center" width="33%">
-
-🔎<br>
-<b>RAG & KNOWLEDGE SYSTEMS</b>
-
-<br><br>
-
-Context-Aware AI<br>
-Embeddings • Vector Search<br>
-Retrieval-Based Applications
-
-</td>
-
-<td align="center" width="33%">
-
-⚙️<br>
-<b>AI-POWERED SOFTWARE</b>
-
-<br><br>
-
-Practical AI Products<br>
-APIs • Web Applications<br>
-Deployable Solutions
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-<br>
-
----
-
----
-
-<h2 align="center">🧩 AI ENGINEERING FOCUS</h2>
-
-<p align="center">
-  <b>Areas where I combine AI concepts with practical software engineering.</b>
-</p>
-
-<br>
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-📊<br>
-<b>DATA & MACHINE LEARNING</b>
-
-<br><br>
-
-Data Processing<br>
-EDA • Feature Engineering<br>
-Model Development • Evaluation
-
-</td>
-
-<td align="center" width="33%">
-
-🧠<br>
-<b>DEEP LEARNING & NLP</b>
-
-<br><br>
-
-Neural Networks<br>
-CNN • NLP • Text Classification<br>
-Model Inference
-
-</td>
-
-<td align="center" width="33%">
-
-✨<br>
-<b>GENERATIVE AI</b>
-
-<br><br>
-
-LLM Applications<br>
-Prompt Engineering • Gemini<br>
-LangChain Workflows
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="33%">
-
-🔎<br>
-<b>RAG & RETRIEVAL</b>
-
-<br><br>
-
-Embeddings<br>
-Vector Search • FAISS<br>
-Context Retrieval
-
-</td>
-
-<td align="center" width="33%">
-
-⚙️<br>
-<b>AI APPLICATION ENGINEERING</b>
-
-<br><br>
-
-AI Workflows<br>
-Flask • Streamlit • REST APIs<br>
-Application Integration
-
-</td>
-
-<td align="center" width="33%">
-
-🚀<br>
-<b>DATA & APPLICATION LAYER</b>
-
-<br><br>
-
-SQL • MySQL • MongoDB<br>
-Backend Integration<br>
-Deployable AI Applications
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/DATA-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MODELS-1D4ED8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-7E22CE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-A21CAF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/APPLICATIONS-0369A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DEPLOYMENT-047857?style=for-the-badge"/>
-
-</div>
-
-<br>
-
----
-
+```mermaid
+flowchart LR
+
+    A["🐍 Python<br/>Programming"]
+    B["📊 Data<br/>Analysis"]
+    C["🤖 Machine<br/>Learning"]
+    D["🧠 Deep<br/>Learning"]
+    E["💬 NLP"]
+    F["✨ Generative<br/>AI"]
+    G["🧠 LLMs"]
+    H["🔎 RAG<br/>+ Vector Search"]
+    I["⚙️ AI<br/>Applications"]
+    J["🌐 APIs<br/>Flask / Streamlit"]
+    K["🚀 Deployment"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+    H --> I
+    I --> J
+    J --> K
+
+    style A fill:#0F172A,color:#FFFFFF,stroke:#38BDF8
+    style B fill:#172554,color:#FFFFFF,stroke:#60A5FA
+    style C fill:#1E3A8A,color:#FFFFFF,stroke:#818CF8
+    style D fill:#312E81,color:#FFFFFF,stroke:#A78BFA
+    style E fill:#3B0764,color:#FFFFFF,stroke:#C084FC
+    style F fill:#4C1D95,color:#FFFFFF,stroke:#C4B5FD
+    style G fill:#581C87,color:#FFFFFF,stroke:#D8B4FE
+    style H fill:#701A75,color:#FFFFFF,stroke:#F0ABFC
+    style I fill:#164E63,color:#FFFFFF,stroke:#67E8F9
+    style J fill:#075985,color:#FFFFFF,stroke:#38BDF8
+    style K fill:#064E3B,color:#FFFFFF,stroke:#34D399
+```
 ---
 
 <h2 align="center">💼 PROFESSIONAL EXPERIENCE</h2>
