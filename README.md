@@ -208,94 +208,56 @@ Deployable Apps
 
 ---
 
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
+<h2 align="center">🧩 AI ENGINEERING FOCUS</h2>
+
+<p align="center">
+  <b>Areas where I combine AI concepts with practical software engineering.</b>
+</p>
+
+<br>
 
 <div align="center">
 
 <table>
+
 <tr>
 
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-<h3 align="center">🎨 AI SVG STUDIO</h3>
-
-<p align="center">
-<b>Generative AI Design Platform</b>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:312E81&height=80&text=AI%20SVG%20STUDIO&fontSize=26&fontColor=FFFFFF" width="100%"/>
-
-<br>
-
-AI-powered application that transforms a user's design prompt into structured design specifications and generates scalable SVG graphics through reusable Python templates.
+📊<br>
+<b>DATA & MACHINE LEARNING</b>
 
 <br><br>
 
-<b>Key Capabilities</b>
-
-- 🤖 Gemini-powered design specification
-- 🎨 Multiple templates and visual styles
-- 🧩 Reusable SVG rendering architecture
-- 📦 Single & batch SVG generation
-- 👁️ Live SVG preview
-- 📥 SVG / ZIP / JSON export
-- 💬 Session-based AI workflow
-
-<br>
-
-<b>Tech</b>
-
-`Python` `Gemini` `Generative AI` `LangChain` `SVG` `Streamlit`
-
-<br><br>
-
-<a href="https://ai-svg-studio-mq2tbhebhug3z7aaqfj5b4.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Bhavesh950/AI-SVG-Studio">
-<img src="https://img.shields.io/badge/💻%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Data Processing<br>
+EDA • Feature Engineering<br>
+Model Development • Evaluation
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-<h3 align="center">🛡️ SPAMSHIELD AI</h3>
-
-<p align="center">
-<b>NLP Spam / Ham Classification</b>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:065F46&height=80&text=SPAMSHIELD%20AI&fontSize=26&fontColor=FFFFFF" width="100%"/>
-
-<br>
-
-NLP-based Machine Learning application that classifies text messages as Spam or Ham using preprocessing, TF-IDF feature extraction and Random Forest classification.
+🧠<br>
+<b>DEEP LEARNING & NLP</b>
 
 <br><br>
 
-<b>Key Capabilities</b>
+Neural Networks<br>
+CNN • NLP • Text Classification<br>
+Model Inference
 
-- 🧹 Text preprocessing pipeline
-- 🔤 TF-IDF feature extraction
-- 🌲 Random Forest classification
-- 🎯 Custom prediction threshold
-- 🌐 Flask-based web application
-- 📊 Probability-based predictions
-- 📁 Git LFS model tracking
+</td>
 
-<br>
+<td align="center" width="33%">
 
-<b>Tech</b>
-
-`Python` `NLP` `TF-IDF` `Random Forest` `Flask` `NLTK`
+✨<br>
+<b>GENERATIVE AI</b>
 
 <br><br>
 
-<a href="https://github.com/Bhavesh950/Spam_Ham_Classifier_NLP_Project">
-<img src="https://img.shields.io/badge/💻%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+LLM Applications<br>
+Prompt Engineering • Gemini<br>
+LangChain Workflows
 
 </td>
 
@@ -303,93 +265,68 @@ NLP-based Machine Learning application that classifies text messages as Spam or 
 
 <tr>
 
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-<h3 align="center">📊 AMBITIONBOX JOB ANALYSIS</h3>
-
-<p align="center">
-<b>Job Market Data Analytics</b>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1E3A8A&height=80&text=JOB%20MARKET%20ANALYTICS&fontSize=25&fontColor=FFFFFF" width="100%"/>
-
-<br>
-
-Data analytics project focused on exploring job and company information to identify patterns, trends and useful market insights.
+🔎<br>
+<b>RAG & RETRIEVAL</b>
 
 <br><br>
 
-<b>Key Areas</b>
-
-- 📊 Dataset exploration
-- 🧹 Data cleaning
-- 🔍 Exploratory Data Analysis
-- 📈 Statistical analysis
-- 📉 Data visualization
-- 🐼 Pandas-based processing
-
-<br>
-
-<b>Tech</b>
-
-`Python` `Pandas` `NumPy` `Matplotlib` `EDA` `Data Analysis`
-
-<br><br>
-
-<a href="https://github.com/Bhavesh950/AmbitionBox-Job-Analysis">
-<img src="https://img.shields.io/badge/💻%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Embeddings<br>
+Vector Search • FAISS<br>
+Context Retrieval
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-<h3 align="center">🔬 MORE AI / DATA WORK</h3>
-
-<p align="center">
-<b>From experiments to practical applications</b>
-</p>
-
-<br>
-
-My projects cover multiple layers of the AI development lifecycle:
-
-<br>
-
-📊 <b>Data Analysis</b><br>
-Exploration, cleaning and visualization
+⚙️<br>
+<b>AI APPLICATION ENGINEERING</b>
 
 <br><br>
 
-🤖 <b>Machine Learning</b><br>
-Feature engineering, training and evaluation
+AI Workflows<br>
+Flask • Streamlit • REST APIs<br>
+Application Integration
+
+</td>
+
+<td align="center" width="33%">
+
+🚀<br>
+<b>DATA & APPLICATION LAYER</b>
 
 <br><br>
 
-🧠 <b>Deep Learning</b><br>
-Neural networks and computer vision
-
-<br><br>
-
-💬 <b>NLP</b><br>
-Text processing and classification
-
-<br><br>
-
-✨ <b>Generative AI</b><br>
-LLMs, RAG and AI-powered applications
-
-<br><br>
-
-🌐 <b>Application Layer</b><br>
-Flask, Streamlit, APIs and databases
+SQL • MySQL • MongoDB<br>
+Backend Integration<br>
+Deployable AI Applications
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DATA-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODELS-1D4ED8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-7E22CE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-A21CAF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/APPLICATIONS-0369A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DEPLOYMENT-047857?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+---
 
 ---
 
