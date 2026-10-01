@@ -260,8 +260,7 @@ Worked as an Artificial Intelligence Intern with practical exposure to Python-ba
 <h3>🐍 Programming</h3>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br><br>
 
@@ -273,10 +272,27 @@ Worked as an Artificial Intelligence Intern with practical exposure to Python-ba
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Supervised%20Learning-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Unsupervised%20Learning-1D4ED8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Regression-1E40AF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Classification-3730A3?style=flat-square"/>
+<img src="https://img.shields.io/badge/Clustering-4338CA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ensemble%20Learning-4F46E5?style=flat-square"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/ANN-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/CNN-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/RNN-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/LSTM-A21CAF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transfer%20Learning-86198F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-701A75?style=flat-square"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/NLP-9333EA?style=flat-square"/>
 <img src="https://img.shields.io/badge/Feature%20Engineering-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/EDA-2563EB?style=flat-square"/>
 <img src="https://img.shields.io/badge/Model%20Evaluation-1D4ED8?style=flat-square"/>
 
 <br><br>
@@ -301,7 +317,6 @@ Worked as an Artificial Intelligence Intern with practical exposure to Python-ba
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br><br>
 
@@ -331,6 +346,8 @@ Worked as an Artificial Intelligence Intern with practical exposure to Python-ba
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </div>
+
+---
 
 ---
 
