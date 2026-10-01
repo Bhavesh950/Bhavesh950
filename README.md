@@ -137,74 +137,109 @@ flowchart LR
 
 <h2 align="center">🛠️ WHAT I BUILD</h2>
 
+<p align="center">
+  <b>Practical AI systems that turn data, models and intelligence into usable applications.</b>
+</p>
+
+<br>
+
 <div align="center">
 
 <table>
+
 <tr>
 
-<td align="center" width="20%">
-
-🐍<br>
-<b>Python</b><br>
-AI Development
-
-</td>
-
-<td align="center" width="20%">
+<td align="center" width="33%">
 
 🤖<br>
-<b>ML / DL</b><br>
-Prediction Systems
+<b>MACHINE LEARNING SOLUTIONS</b>
+
+<br><br>
+
+Prediction Systems<br>
+Classification • Feature Engineering<br>
+Model Evaluation
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="33%">
+
+🧠<br>
+<b>DEEP LEARNING SYSTEMS</b>
+
+<br><br>
+
+Neural Network Solutions<br>
+Computer Vision • CNNs<br>
+Image Intelligence
+
+</td>
+
+<td align="center" width="33%">
 
 💬<br>
-<b>NLP</b><br>
-Text Intelligence
+<b>NLP APPLICATIONS</b>
 
-</td>
+<br><br>
 
-<td align="center" width="20%">
-
-✨<br>
-<b>GenAI</b><br>
-LLM Applications
-
-</td>
-
-<td align="center" width="20%">
-
-🌐<br>
-<b>APIs</b><br>
-Deployable Apps
+Text Intelligence<br>
+Text Classification • NLP Workflows<br>
+Language-Based Systems
 
 </td>
 
 </tr>
-</table>
 
-<br>
+<tr>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-1E3A8A?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-9333EA?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative%20AI-4F46E5?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-6D28D9?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-7E22CE?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vector%20Search-A21CAF?style=for-the-badge&logoColor=white"/>
+<td align="center" width="33%">
+
+✨<br>
+<b>GENERATIVE AI APPLICATIONS</b>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+LLM-Powered Solutions<br>
+AI Assistants • Content Generation<br>
+Intelligent Workflows
+
+</td>
+
+<td align="center" width="33%">
+
+🔎<br>
+<b>RAG & KNOWLEDGE SYSTEMS</b>
+
+<br><br>
+
+Context-Aware AI<br>
+Embeddings • Vector Search<br>
+Retrieval-Based Applications
+
+</td>
+
+<td align="center" width="33%">
+
+⚙️<br>
+<b>AI-POWERED SOFTWARE</b>
+
+<br><br>
+
+Practical AI Products<br>
+APIs • Web Applications<br>
+Deployable Solutions
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
+
+<br>
+
+---
 
 ---
 
